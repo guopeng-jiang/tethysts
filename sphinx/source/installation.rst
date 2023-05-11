@@ -2,11 +2,11 @@ Installation
 ============
 Install via pip::
 
-  pip install tethysts==4.5
+  pip install tethysts==4.5.11
 
 Or conda::
 
-  conda install -c mullenkamp tethysts=4.5
+  conda install -c mullenkamp tethysts=4.5.11
 
 Requirements
 ------------
